@@ -18,7 +18,7 @@ c=int(input('enter c value'))
 print(a+b)
 
 
-#to find the which number is largest
+#to find which number is the largest
 if a>=b and a>=c:
     print(a,'is largest')
 if b>=c:

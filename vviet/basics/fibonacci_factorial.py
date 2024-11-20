@@ -11,7 +11,7 @@ else:
     print("the factorial of ", n, "is" , factorial)
 
 #fibonacci series
-fs = [0, 1]
+fu = [0, 1]
 n=int(input("enter a number:"))
 if n<0:
     print("factorial do not exists for negative number")

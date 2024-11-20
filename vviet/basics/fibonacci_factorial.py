@@ -1,5 +1,5 @@
 #factorial
-n=int(input("enter a number:"))
+o=int(input("enter a number:"))
 factorial=1
 if n<0:
     print("factorial do not exists for negative number")
